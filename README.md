@@ -16,13 +16,14 @@ Our Billing System project aims to simplify the billing process for businesses, 
 
 ## Technologies used
 
--Python
--Tkinter (GUI library)
+- **Python**
+- **Tkinter (GUI library)**
 
 ## Future Enhancements
--Add user authentication for access control.
--Implement database integration for more robust data management.
--Include customization options for invoice templates.
+
+- **Add user authentication for access control**
+- **Implement database integration for more robust data management**
+- **Include customization options for invoice templates**
 
 ## How to Use
 
