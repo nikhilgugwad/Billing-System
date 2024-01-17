@@ -1,4 +1,4 @@
-# Billing System Project
+# Billing System
 
 Welcome to our "Billing System" project repository! This project was developed as part of our college curriculum using the Python Tkinter module. The Billing System is designed to streamline the process of generating bills and managing transactions for a business.
 
@@ -24,11 +24,3 @@ Our Billing System project aims to simplify the billing process for businesses, 
 - **Add user authentication for access control**
 - **Implement database integration for more robust data management**
 - **Include customization options for invoice templates**
-
-## How to Use
-
-Clone this repository:
-
-   ```bash
-   git clone https://github.com/your-username/billing-system.git
-   cd billing-system
